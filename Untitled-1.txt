@@ -1,0 +1,6 @@
+var myname ="Okere Kingdavid";
+var courses =['html','css','javascript'
+console.log(myname)
+console.log(courses)
+for (i=0;i<=220;i++)
+{if(i%2!==0){console.log(i)}}
